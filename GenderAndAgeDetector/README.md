@@ -56,7 +56,7 @@
 # Working:
 
 <h2>Examples :</h2>
-<p><b>NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose.</b></p>
+<p><b>NOTE:- I downloaded some images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose.</b></p>
 
 
 <img src="Example/Detecting age and gender girl1.png">
